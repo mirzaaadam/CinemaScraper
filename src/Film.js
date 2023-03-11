@@ -1,6 +1,6 @@
 import React from "react";
 
-{/*Degine the Film component to build a list of the films the user has searched up*/}
+{/*Define the Film component to build a list of the films the user has searched up*/}
 function Film(props) {
   return (
     <div className="film-container">
